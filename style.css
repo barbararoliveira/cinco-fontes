@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Nova+Mono&family=Pinyon+Script&family=Press+Start+2P&family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    color: black;
+    background-color: aquamarine;
+    text-shadow: 2px 2px 0 silver;
+}
+h2 {
+   font-family: Arial, Helvetica, sans-serif;
+   text-shadow: blue 1px 1px 0;
+   font-size: 35px;
+}
+.serif {
+    font-family: 'Gabriela';
+}
+.monospace {
+    font-family: 'Nova Mono';
+}
+.cursive {
+    font-family: 'Pinyon Script';
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.fantasy {
+    font-family: 'Fredericka the Great';
+    letter-spacing: 2px;
+}
+.sans-serif {
+    font-family: 'Quattrocento Sans';
+}
+p {
+  color: aquamarine;
+  font-size: 30px;
+}
